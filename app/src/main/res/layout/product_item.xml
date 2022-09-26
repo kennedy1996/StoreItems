@@ -10,6 +10,9 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
+        android:fontFamily="@font/montez"
+        android:textSize="20sp"
+        android:textStyle="bold"
         app:layout_constraintStart_toEndOf="@id/product_item_image"
         app:layout_constraintTop_toTopOf="parent"
         tools:text="Fruit Salad" />
